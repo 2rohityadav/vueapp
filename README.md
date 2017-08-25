@@ -1,5 +1,4 @@
 # vueapp
-curd
 
 npm intall
 
